@@ -1,4 +1,4 @@
-FROM siutin/ubuntu-rvm:v2.1.2_20161018
+FROM siutin/ubuntu-rvm:v2.3.1_20161018
 MAINTAINER Martin Chan <osiutino@gmail.com>
 ENV REFRESHED_AT 2016-10-18
 
